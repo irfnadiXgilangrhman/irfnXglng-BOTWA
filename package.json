@@ -1,5 +1,5 @@
 {
-  "name": "st4rzbot",
+  "name": "irfnXgilng-BOT",
   "version": "1.0.0",
   "description": "bot whatsapp lewat hp doang",
   "main": "index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bintang73/botst4rz.git"
+    "url": "git+https://github.com/irfnadiXgilangrhmn/irfnXglng-BOTWA"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "IRFAN X GILANG",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bintang73/botst4rz/issues"
+    "url": "https://github.com/irfnadiXgilangrhmn/irfnXglng-BOTWA/issues"
   },
-  "homepage": "https://github.com/Bintang73/botst4rz#readme"
+  "homepage": "https://github.com/irfnadiXgilangrhmn/irfnXglng-BOTWA#readme"
 }
